@@ -1,1 +1,1 @@
-{"open": 0, "url": "https://hoid.xyz/"}
+{"open": 1, "url": "https://hoid.xyz/"}
